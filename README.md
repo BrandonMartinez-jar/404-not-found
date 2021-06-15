@@ -31,7 +31,7 @@
 
 ## Overview
 
-![image](https://user-images.githubusercontent.com/76891236/122091576-8ef04480-cdce-11eb-9940-d44a5530491e.png)
+![image](https://user-images.githubusercontent.com/76891236/122119189-83ad1100-cdee-11eb-900c-1858230570b8.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
