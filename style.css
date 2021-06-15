@@ -101,8 +101,8 @@ body{
 
 .author{
     position: absolute;
-    left: 670px;
-    top: 700px;
+    left: 42%;
+    top: 91%;
     font-family: Montserrat;
     font-style: normal;
     font-weight: 500;
@@ -115,6 +115,9 @@ body{
     .title{
         position: relative;
         left: -280px;
+    }
+    .container{
+        top: 20px;
     }
     .author{
         left: 240px;
