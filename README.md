@@ -35,10 +35,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- [demo](https://brandonmartinez-jar.github.io/404-not-found/)
 
 ### Built With
 
@@ -49,15 +46,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
-
-## Acknowledgements
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://devchallenges.io/portfolio/BrandonMartinez-jar)
-- GitHub [@your-username](https://github.com/BrandonMartinez-jar)
-- Dribbble [@your-twitter](https://dribbble.com/BrandonMartinez-jar)
+- [Portfolio](https://devchallenges.io/portfolio/BrandonMartinez-jar)
+- [Github](https://github.com/BrandonMartinez-jar)
+- [Dribble](https://dribbble.com/BrandonMartinez-jar)
