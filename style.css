@@ -82,12 +82,14 @@ body{
     color: #BDBDBD;
 }
 @media (max-width: 900px){
+    body{
+        justify-content: center;
+        align-items: center;
+    }
     .container{
         position: relative;
         top: 100px;
         max-width: 100%;
-        justify-content: center;
-        align-items: center;
         margin: 50px;
     }
     .img{
