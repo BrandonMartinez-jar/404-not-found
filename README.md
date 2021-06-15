@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://brandonmartinez-jar.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/BrandonMartinez-jar/404-not-found}">
+    <a href="https://github.com/BrandonMartinez-jar/404-not-found">
       Solution
     </a>
     <span> | </span>
