@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Space+Mono&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+}
+.title{
+
+    font-family: Inconsolata;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 20px;
+    left: 24px;
+}
+.container{
+    position: relative;
+    top: 170px;
+    max-width: 100%;
+}
+.img{
+    display: inline;
+    position: absolute;
+    left: 150px;
+}
+.img img{
+    max-width: 500px;
+}
+.text{
+    position: absolute;
+    max-width: 600px;
+    left: 800px;
+}
+.text h1{
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    color: #333333;
+    width: 600px;
+}
+.text p{
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    width: 400px;
+    color: #4F4F4F;
+    margin: 50px 0;
+}
+.text a{
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #ffffff;
+    background: #333333;
+    text-decoration: none;
+    padding: 20px;
+    margin: 50px 0;
+}
+.author{
+    position: relative;
+    left: 600px;
+    top: 550px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #BDBDBD;
+}
+@media (max-width: 600px){
+    .container{
+        position: relative;
+        top: 100px;
+        max-width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin: 50px;
+    }
+    .img{
+        display: inline;
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .img img{
+        max-width: 450px;
+    }
+    .text{
+        position: relative;
+        top: 50px;
+        left: 0;
+    }
+    .text h1{
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 64px;
+        line-height: 95px;
+        color: #333333;
+        width: 500px;
+    }
+    .text p{
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 36px;
+        width: 400px;
+        color: #4F4F4F;
+        margin: 50px 0;
+    }
+    .text a{
+        font-family: Space Mono;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 21px;
+        text-transform: uppercase;
+        color: #ffffff;
+        background: #333333;
+        text-decoration: none;
+        padding: 20px;
+        margin: 50px 0;
+    }
+    .author{
+        left: 80px;
+        top: 120px;
+    }
+}
